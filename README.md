@@ -10,7 +10,7 @@ The selection of keywords can be done either manually or automatically. In orde
 pip install KeywordMasking
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, you can import the data collator:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, you can import the data collator:
 
 ```
 from KeywordMasking import DataCollatorForKeywordMasking
@@ -35,13 +35,22 @@ Click [here](https://github.com/shahriargolchin/compact-pretraining/tree/main/ex
 # Citation
 If you found our work helpful for your project, you can cite our work using the following bibtex:
 ```
-@misc{golchin2022compact,
-      title={A Compact Pretraining Approach for Neural Language Models}, 
-      author={Shahriar Golchin and Mihai Surdeanu and Nazgol Tavabi and Ata Kiapour},
-      year={2022},
-      eprint={2208.12367},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@misc{https://doi.org/10.48550/arxiv.2208.12367,
+  doi = {10.48550/ARXIV.2208.12367},
+  
+  url = {https://arxiv.org/abs/2208.12367},
+  
+  author = {Golchin, Shahriar and Surdeanu, Mihai and Tavabi, Nazgol and Kiapour, Ata},
+  
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {A Compact Pretraining Approach for Neural Language Models},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
 
