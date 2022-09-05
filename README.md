@@ -35,15 +35,11 @@ Click [here](https://github.com/shahriargolchin/compact-pretraining/tree/main/ex
 # Citation
 If you found our work helpful for your project, you can cite our work using the following bibtex:
 ```
-@misc{https://doi.org/10.48550/arxiv.2208.12367,
-  doi = {10.48550/ARXIV.2208.12367},
-  url = {https://arxiv.org/abs/2208.12367},
-  author = {Golchin, Shahriar and Surdeanu, Mihai and Tavabi, Nazgol and Kiapour, Ata},
-  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {A Compact Pretraining Approach for Neural Language Models},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@article{golchin2022compact,
+  title={A Compact Pretraining Approach for Neural Language Models},
+  author={Golchin, Shahriar and Surdeanu, Mihai and Tavabi, Nazgol and Kiapour, Ata},
+  journal={arXiv preprint arXiv:2208.12367},
+  year={2022}
 }
 ```
 
